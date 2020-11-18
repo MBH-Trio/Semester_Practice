@@ -1,0 +1,12 @@
+C:\Users\PeaceSeeker\source\repos\counter_chess\bin\Debug\counter_chess.exe.config
+C:\Users\PeaceSeeker\source\repos\counter_chess\bin\Debug\counter_chess.exe
+C:\Users\PeaceSeeker\source\repos\counter_chess\bin\Debug\counter_chess.pdb
+C:\Users\PeaceSeeker\source\repos\counter_chess\bin\Debug\Guna.UI2.dll
+C:\Users\PeaceSeeker\source\repos\counter_chess\obj\Debug\counter_chess.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\source\repos\counter_chess\obj\Debug\counter_chess.Form1.resources
+C:\Users\PeaceSeeker\source\repos\counter_chess\obj\Debug\counter_chess.Properties.Resources.resources
+C:\Users\PeaceSeeker\source\repos\counter_chess\obj\Debug\counter_chess.csproj.GenerateResource.cache
+C:\Users\PeaceSeeker\source\repos\counter_chess\obj\Debug\counter_chess.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\source\repos\counter_chess\obj\Debug\counter_chess.csproj.CopyComplete
+C:\Users\PeaceSeeker\source\repos\counter_chess\obj\Debug\counter_chess.exe
+C:\Users\PeaceSeeker\source\repos\counter_chess\obj\Debug\counter_chess.pdb

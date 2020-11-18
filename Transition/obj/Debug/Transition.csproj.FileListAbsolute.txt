@@ -1,0 +1,12 @@
+C:\Users\PeaceSeeker\source\repos\Transition\bin\Debug\Transition.exe.config
+C:\Users\PeaceSeeker\source\repos\Transition\bin\Debug\Transition.exe
+C:\Users\PeaceSeeker\source\repos\Transition\bin\Debug\Transition.pdb
+C:\Users\PeaceSeeker\source\repos\Transition\bin\Debug\Guna.UI2.dll
+C:\Users\PeaceSeeker\source\repos\Transition\obj\Debug\Transition.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\source\repos\Transition\obj\Debug\Transition.Form1.resources
+C:\Users\PeaceSeeker\source\repos\Transition\obj\Debug\Transition.Properties.Resources.resources
+C:\Users\PeaceSeeker\source\repos\Transition\obj\Debug\Transition.csproj.GenerateResource.cache
+C:\Users\PeaceSeeker\source\repos\Transition\obj\Debug\Transition.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\source\repos\Transition\obj\Debug\Transition.csproj.CopyComplete
+C:\Users\PeaceSeeker\source\repos\Transition\obj\Debug\Transition.exe
+C:\Users\PeaceSeeker\source\repos\Transition\obj\Debug\Transition.pdb
