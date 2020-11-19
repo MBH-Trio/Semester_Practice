@@ -1,0 +1,7 @@
+C:\Users\PeaceSeeker\source\repos\Jagged\bin\Debug\Jagged.exe.config
+C:\Users\PeaceSeeker\source\repos\Jagged\bin\Debug\Jagged.exe
+C:\Users\PeaceSeeker\source\repos\Jagged\bin\Debug\Jagged.pdb
+C:\Users\PeaceSeeker\source\repos\Jagged\obj\Debug\Jagged.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\source\repos\Jagged\obj\Debug\Jagged.exe
+C:\Users\PeaceSeeker\source\repos\Jagged\obj\Debug\Jagged.pdb
+C:\Users\PeaceSeeker\source\repos\Jagged\obj\Debug\Jagged.csprojAssemblyReference.cache
