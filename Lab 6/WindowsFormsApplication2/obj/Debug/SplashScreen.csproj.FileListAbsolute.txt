@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\Guna.UI2.dll
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.form_Splash_Screen.resources
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources

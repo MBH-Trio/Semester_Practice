@@ -1,0 +1,20 @@
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\Lab_Game\bin\Debug\Lab_Game.exe.config
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\Lab_Game\bin\Debug\Lab_Game.exe
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\Lab_Game\bin\Debug\Lab_Game.pdb
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\Lab_Game\bin\Debug\Guna.UI2.dll
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\Lab_Game\obj\Debug\Lab_Game.Form1.resources
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\Lab_Game\obj\Debug\Lab_Game.Properties.Resources.resources
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\Lab_Game\obj\Debug\Lab_Game.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\Lab_Game\obj\Debug\Lab_Game.exe
+c:\users\student\documents\visual studio 2012\Projects\WindowsFormsApplication1\Lab_Game\obj\Debug\Lab_Game.pdb
+C:\Users\PeaceSeeker\Documents\C_Sharp\WindowsFormsApplication1\Lab_Game\bin\Debug\Lab_Game.exe.config
+C:\Users\PeaceSeeker\Documents\C_Sharp\WindowsFormsApplication1\Lab_Game\bin\Debug\Lab_Game.exe
+C:\Users\PeaceSeeker\Documents\C_Sharp\WindowsFormsApplication1\Lab_Game\bin\Debug\Lab_Game.pdb
+C:\Users\PeaceSeeker\Documents\C_Sharp\WindowsFormsApplication1\Lab_Game\obj\Debug\Lab_Game.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\Documents\C_Sharp\WindowsFormsApplication1\Lab_Game\obj\Debug\Lab_Game.Form1.resources
+C:\Users\PeaceSeeker\Documents\C_Sharp\WindowsFormsApplication1\Lab_Game\obj\Debug\Lab_Game.Properties.Resources.resources
+C:\Users\PeaceSeeker\Documents\C_Sharp\WindowsFormsApplication1\Lab_Game\obj\Debug\Lab_Game.csproj.GenerateResource.cache
+C:\Users\PeaceSeeker\Documents\C_Sharp\WindowsFormsApplication1\Lab_Game\obj\Debug\Lab_Game.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\Documents\C_Sharp\WindowsFormsApplication1\Lab_Game\obj\Debug\Lab_Game.csproj.CopyComplete
+C:\Users\PeaceSeeker\Documents\C_Sharp\WindowsFormsApplication1\Lab_Game\obj\Debug\Lab_Game.exe
+C:\Users\PeaceSeeker\Documents\C_Sharp\WindowsFormsApplication1\Lab_Game\obj\Debug\Lab_Game.pdb
