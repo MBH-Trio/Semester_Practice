@@ -1,0 +1,12 @@
+C:\Users\PeaceSeeker\source\repos\task_1\bin\Debug\task_1.exe.config
+C:\Users\PeaceSeeker\source\repos\task_1\bin\Debug\task_1.exe
+C:\Users\PeaceSeeker\source\repos\task_1\bin\Debug\task_1.pdb
+C:\Users\PeaceSeeker\source\repos\task_1\obj\Debug\task_1.Form1.resources
+C:\Users\PeaceSeeker\source\repos\task_1\obj\Debug\task_1.Properties.Resources.resources
+C:\Users\PeaceSeeker\source\repos\task_1\obj\Debug\task_1.csproj.GenerateResource.cache
+C:\Users\PeaceSeeker\source\repos\task_1\obj\Debug\task_1.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\source\repos\task_1\obj\Debug\task_1.exe
+C:\Users\PeaceSeeker\source\repos\task_1\obj\Debug\task_1.pdb
+C:\Users\PeaceSeeker\source\repos\task_1\obj\Debug\task_1.Form2.resources
+C:\Users\PeaceSeeker\source\repos\task_1\obj\Debug\task_1.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\source\repos\task_1\obj\Debug\task_1.Form3.resources

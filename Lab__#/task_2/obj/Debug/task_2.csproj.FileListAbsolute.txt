@@ -1,0 +1,9 @@
+C:\Users\PeaceSeeker\source\repos\task_2\bin\Debug\task_2.exe.config
+C:\Users\PeaceSeeker\source\repos\task_2\bin\Debug\task_2.exe
+C:\Users\PeaceSeeker\source\repos\task_2\bin\Debug\task_2.pdb
+C:\Users\PeaceSeeker\source\repos\task_2\obj\Debug\task_2.Form1.resources
+C:\Users\PeaceSeeker\source\repos\task_2\obj\Debug\task_2.Properties.Resources.resources
+C:\Users\PeaceSeeker\source\repos\task_2\obj\Debug\task_2.csproj.GenerateResource.cache
+C:\Users\PeaceSeeker\source\repos\task_2\obj\Debug\task_2.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\source\repos\task_2\obj\Debug\task_2.exe
+C:\Users\PeaceSeeker\source\repos\task_2\obj\Debug\task_2.pdb
