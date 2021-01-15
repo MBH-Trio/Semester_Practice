@@ -1,0 +1,8 @@
+C:\Users\PeaceSeeker\source\repos\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\PeaceSeeker\source\repos\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\PeaceSeeker\source\repos\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\PeaceSeeker\source\repos\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\source\repos\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\source\repos\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\PeaceSeeker\source\repos\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\PeaceSeeker\source\repos\Lab_2\bin\Debug\Lab_2.xml

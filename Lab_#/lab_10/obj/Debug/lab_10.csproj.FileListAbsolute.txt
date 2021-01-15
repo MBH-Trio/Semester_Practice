@@ -1,0 +1,10 @@
+C:\Users\PeaceSeeker\source\repos\lab_10\bin\Debug\lab_10.exe.config
+C:\Users\PeaceSeeker\source\repos\lab_10\bin\Debug\lab_10.exe
+C:\Users\PeaceSeeker\source\repos\lab_10\bin\Debug\lab_10.pdb
+C:\Users\PeaceSeeker\source\repos\lab_10\obj\Debug\lab_10.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\source\repos\lab_10\obj\Debug\lab_10.Form1.resources
+C:\Users\PeaceSeeker\source\repos\lab_10\obj\Debug\lab_10.Properties.Resources.resources
+C:\Users\PeaceSeeker\source\repos\lab_10\obj\Debug\lab_10.csproj.GenerateResource.cache
+C:\Users\PeaceSeeker\source\repos\lab_10\obj\Debug\lab_10.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\source\repos\lab_10\obj\Debug\lab_10.exe
+C:\Users\PeaceSeeker\source\repos\lab_10\obj\Debug\lab_10.pdb
