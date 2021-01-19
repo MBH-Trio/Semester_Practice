@@ -1,0 +1,12 @@
+C:\Users\PeaceSeeker\source\repos\Prime Tasks\bin\Debug\Prime Tasks.exe.config
+C:\Users\PeaceSeeker\source\repos\Prime Tasks\bin\Debug\Prime Tasks.exe
+C:\Users\PeaceSeeker\source\repos\Prime Tasks\bin\Debug\Prime Tasks.pdb
+C:\Users\PeaceSeeker\source\repos\Prime Tasks\obj\Debug\Prime Task.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\source\repos\Prime Tasks\obj\Debug\Prime_Tasks.Form1.resources
+C:\Users\PeaceSeeker\source\repos\Prime Tasks\obj\Debug\Prime_Tasks.Properties.Resources.resources
+C:\Users\PeaceSeeker\source\repos\Prime Tasks\obj\Debug\Prime Task.csproj.GenerateResource.cache
+C:\Users\PeaceSeeker\source\repos\Prime Tasks\obj\Debug\Prime Task.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\source\repos\Prime Tasks\obj\Debug\Prime Tasks.exe
+C:\Users\PeaceSeeker\source\repos\Prime Tasks\obj\Debug\Prime Tasks.pdb
+C:\Users\PeaceSeeker\source\repos\Prime Tasks\bin\Debug\Guna.UI2.dll
+C:\Users\PeaceSeeker\source\repos\Prime Tasks\obj\Debug\Prime Task.csproj.CopyComplete

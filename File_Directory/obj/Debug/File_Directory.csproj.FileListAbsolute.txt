@@ -1,0 +1,7 @@
+C:\Users\PeaceSeeker\source\repos\File_Directory\bin\Debug\File_Directory.exe.config
+C:\Users\PeaceSeeker\source\repos\File_Directory\bin\Debug\File_Directory.exe
+C:\Users\PeaceSeeker\source\repos\File_Directory\bin\Debug\File_Directory.pdb
+C:\Users\PeaceSeeker\source\repos\File_Directory\obj\Debug\File_Directory.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\source\repos\File_Directory\obj\Debug\File_Directory.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\source\repos\File_Directory\obj\Debug\File_Directory.exe
+C:\Users\PeaceSeeker\source\repos\File_Directory\obj\Debug\File_Directory.pdb

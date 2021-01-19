@@ -1,0 +1,15 @@
+C:\Users\PeaceSeeker\source\repos\QR_code\bin\Debug\QR_code.exe.config
+C:\Users\PeaceSeeker\source\repos\QR_code\bin\Debug\QR_code.exe
+C:\Users\PeaceSeeker\source\repos\QR_code\bin\Debug\QR_code.pdb
+C:\Users\PeaceSeeker\source\repos\QR_code\bin\Debug\Guna.UI2.dll
+C:\Users\PeaceSeeker\source\repos\QR_code\bin\Debug\QRCoder.dll
+C:\Users\PeaceSeeker\source\repos\QR_code\obj\Debug\QR_code.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\source\repos\QR_code\obj\Debug\QR_code.Form1.resources
+C:\Users\PeaceSeeker\source\repos\QR_code\obj\Debug\QR_code.Properties.Resources.resources
+C:\Users\PeaceSeeker\source\repos\QR_code\obj\Debug\QR_code.csproj.GenerateResource.cache
+C:\Users\PeaceSeeker\source\repos\QR_code\obj\Debug\QR_code.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\source\repos\QR_code\obj\Debug\QR_code.csproj.CopyComplete
+C:\Users\PeaceSeeker\source\repos\QR_code\obj\Debug\QR_code.exe
+C:\Users\PeaceSeeker\source\repos\QR_code\obj\Debug\QR_code.pdb
+C:\Users\PeaceSeeker\source\repos\QR_code\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\PeaceSeeker\source\repos\QR_code\obj\Debug\QR_code.QR_Read_Scan.resources

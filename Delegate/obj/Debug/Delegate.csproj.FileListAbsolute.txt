@@ -1,0 +1,7 @@
+C:\Users\PeaceSeeker\source\repos\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\PeaceSeeker\source\repos\Delegate\bin\Debug\Delegate.exe
+C:\Users\PeaceSeeker\source\repos\Delegate\bin\Debug\Delegate.pdb
+C:\Users\PeaceSeeker\source\repos\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\source\repos\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\source\repos\Delegate\obj\Debug\Delegate.exe
+C:\Users\PeaceSeeker\source\repos\Delegate\obj\Debug\Delegate.pdb
